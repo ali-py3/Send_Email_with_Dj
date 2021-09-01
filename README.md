@@ -1,6 +1,6 @@
 ## Create virtualenv
 1 = virtualenv venv
-## for linux
+## Active virtualenv(for linux)
 2 = source venv/bin/activate 
 ## install requirements.txt  
 3 = pip install -r requirements.txt
